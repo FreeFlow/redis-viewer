@@ -25,4 +25,5 @@ Installation
 ------------
 1. `git clone git://github.com/FreeFlow/redis-viewer.git`
 2. `cd redis-viewer/`
-3. `node server.js`
+3. `npm install`
+4. `node server.js`
